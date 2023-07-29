@@ -1,0 +1,132 @@
+
+gameplay.png
+size: 512, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+island
+  rotate: false
+  xy: 2, 22
+  size: 114, 40
+  orig: 114, 40
+  offset: 0, 0
+  index: -1
+plain
+  rotate: false
+  xy: 118, 32
+  size: 66, 30
+  orig: 66, 30
+  offset: 0, 0
+  index: 3
+plain
+  rotate: false
+  xy: 186, 40
+  size: 48, 22
+  orig: 48, 22
+  offset: 0, 0
+  index: 2
+plain
+  rotate: false
+  xy: 309, 42
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: 1
+rock
+  rotate: false
+  xy: 236, 42
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: 2
+rock
+  rotate: false
+  xy: 273, 42
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: 1
+rock
+  rotate: false
+  xy: 342, 42
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: 8
+rock
+  rotate: false
+  xy: 373, 42
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: 7
+rock
+  rotate: false
+  xy: 462, 2
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: 9
+rock
+  rotate: false
+  xy: 2, 5
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: 4
+rock
+  rotate: false
+  xy: 31, 7
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: 10
+rock
+  rotate: false
+  xy: 60, 7
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: 11
+rock
+  rotate: false
+  xy: 118, 10
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: 6
+rock
+  rotate: false
+  xy: 487, 52
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: 3
+rock
+  rotate: false
+  xy: 186, 33
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: 5
+tree
+  rotate: false
+  xy: 403, 7
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: 1
+tree
+  rotate: false
+  xy: 433, 7
+  size: 27, 55
+  orig: 27, 55
+  offset: 0, 0
+  index: 3
+tree
+  rotate: false
+  xy: 462, 16
+  size: 23, 46
+  orig: 23, 46
+  offset: 0, 0
+  index: 2

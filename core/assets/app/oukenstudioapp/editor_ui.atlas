@@ -1,0 +1,139 @@
+
+editor_ui.png
+size: 128, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+arrow_down
+  rotate: false
+  xy: 106, 23
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+arrow_down_white
+  rotate: false
+  xy: 117, 23
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+arrow_right
+  rotate: false
+  xy: 104, 12
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+arrow_right_white
+  rotate: false
+  xy: 115, 12
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+audio_icon
+  rotate: false
+  xy: 2, 26
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 122, 46
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+canvas2
+  rotate: false
+  xy: 51, 8
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+checkbox_checked
+  rotate: false
+  xy: 106, 34
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+checkbox_unchecked
+  rotate: false
+  xy: 56, 10
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+file_icon
+  rotate: false
+  xy: 28, 26
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+folder_big
+  rotate: false
+  xy: 2, 2
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+folder_open_small
+  rotate: false
+  xy: 106, 50
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+folder_small
+  rotate: false
+  xy: 36, 12
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+font_icon
+  rotate: false
+  xy: 54, 26
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+game_object_icon
+  rotate: false
+  xy: 72, 10
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+pane
+  rotate: false
+  xy: 36, 2
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+scene_file_icon
+  rotate: false
+  xy: 80, 26
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+scene_icon
+  rotate: false
+  xy: 88, 10
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+scroll_knob
+  rotate: false
+  xy: 44, 5
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1

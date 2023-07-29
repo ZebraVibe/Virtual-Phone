@@ -1,0 +1,27 @@
+
+appicons.png
+size: 512, 256
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+CrawlApp
+  rotate: false
+  xy: 2, 2
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+ExampleApp
+  rotate: false
+  xy: 249, 183
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+OukenStudioApp
+  rotate: false
+  xy: 249, 117
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
